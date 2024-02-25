@@ -1,4 +1,4 @@
 # Github-Repo
-My first Git Repository.
+This is my first Git Repository.
 <br>
-Faria Zia.
+Faria Zia
